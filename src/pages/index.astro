@@ -1,0 +1,31 @@
+---
+import YokaiCards from '../components/YokaiCards.jsx';
+import '../styles/global.css';
+---
+
+<html lang="es">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Contactos de emergencia</title>
+		<link href="https://cdn.jsdelivr.net/npm/tailwindcss@3.3.0/dist/tailwind.min.css" rel="stylesheet">
+	</head>
+	<body class="bg-gradient-to-br from-gray-900 via-gray-800 to-gray-950 min-h-screen">
+						<div class="flex flex-col items-center mt-8 mb-4">
+							<img src="/logo.jpg" alt="Logo Yokai" class="w-40 h-40 rounded-full mb-4 shadow-lg" />
+									<div class="flex justify-center items-center gap-6">
+										<a href="https://www.facebook.com/profile.php?id=61551794851027&locale=es_LA" target="_blank" rel="noopener noreferrer" class="flex items-center gap-2 text-blue-400 hover:text-blue-200 font-semibold text-lg underline">
+											<img src="/fb.png" alt="" class="w-12 hover:scale-105 transition-transform duration-200 h-12"/>
+										</a>
+										<a href="https://www.instagram.com/yokai.ciclismo.cdmx/" target="_blank" rel="noopener noreferrer" class="flex items-center gap-2 text-pink-400 hover:text-pink-200 font-semibold text-lg underline">
+											<img src="/ig.png" alt="Instagram Logo" class="w-12 hover:scale-105 transition-transform duration-200 h-12"/>
+										</a>
+										<a href="https://www.tiktok.com/@yokai.cdmx" target="_blank" rel="noopener noreferrer" class="flex items-center gap-2 text-gray-200 hover:text-gray-400 border-full font-semibold text-lg underline">
+											<img src="/tiktok.webp" alt="TikTok Logo" class="w-12 hover:scale-105 transition-transform duration-200 h-12"/>
+										</a>
+									</div>
+					</div>
+			<h1 class="text-5xl font-extrabold text-center mb-8 text-blue-300 drop-shadow-lg tracking-wide">Contactos de emergencia</h1>
+		<YokaiCards client:only="react" />
+	</body>
+</html>

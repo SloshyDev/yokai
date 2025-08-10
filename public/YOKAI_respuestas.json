@@ -1,0 +1,305 @@
+[
+    {
+        "Marca temporal": "2025-06-30 09:42:48.848",
+        "Nombre (incluye si tienes un alias)*": "Jaime Cortés Flores ",
+        "¿Tienes alguna alergia?": "No",
+        "En caso de accidente ¿Tienes seguro social? ": "IMSS",
+    "Fecha de Nacimiento": "29/07/2025",
+        "Tipo de sangre": "O positivo ",
+                "Contactos de emergencia": [
+                    {"nombre": "Gael Cortés", "telefono": null},
+                    {"nombre": "Gabriela Ramírez", "telefono": null}
+                ]
+    },
+    {
+        "Marca temporal": "2025-06-25 17:48:32.704",
+    "¿Tienes alguna alergia?": null,
+    "Nombre (incluye si tienes un alias)*": "Mariana",
+    "En caso de accidente ¿Tienes seguro social? ": null,
+    "Fecha de Nacimiento": "25/07/2025",
+        "Tipo de sangre": "A+",
+                "Contactos de emergencia": [
+                    {"nombre": "Rafael Mendoza", "telefono": "5525274139"},
+                    {"nombre": "Jacqueline Mendoza", "telefono": "5610938021"}
+                ]
+    },
+    {
+        "Marca temporal": "2025-06-25 15:06:07.501",
+        "Nombre (incluye si tienes un alias)*": "Sara Bravo Ferrer ",
+        "¿Tienes alguna alergia?": "No",
+        "En caso de accidente ¿Tienes seguro social? ": "Emergencias oncologia tlalpan",
+    "Fecha de Nacimiento": "06/07/2025",
+        "Tipo de sangre": "0 +",
+                "Contactos de emergencia": [
+                    {"nombre": "Pablo", "telefono": "5543695244"},
+                    {"nombre": "Pablo", "telefono": "5559958506"}
+                ]
+    },
+    {
+        "Marca temporal": "2025-06-25 17:29:44.164",
+        "Nombre (incluye si tienes un alias)*": "Luis ",
+        "¿Tienes alguna alergia?": "No ",
+        "En caso de accidente ¿Tienes seguro social? ": "IMSS",
+    "Fecha de Nacimiento": "11/03/2001",
+        "Tipo de sangre": "A+",
+                "Contactos de emergencia": [
+                    {"nombre": "Alejandro Melendez", "telefono": "5528903727"},
+                    {"nombre": "Luisa Uribe", "telefono": "5540365788"}
+                ]
+    },
+    {
+        "Marca temporal": "2025-06-25 20:23:32.357",
+        "Nombre (incluye si tienes un alias)*": "David Uriel Solano Avilés",
+        "¿Tienes alguna alergia?": "Picaduras de abeja, productos derivados de la miel de abeja, alergias alimentarias menores",
+        "En caso de accidente ¿Tienes seguro social? ": "IMSS",
+    "Fecha de Nacimiento": "31/05/2000",
+        "Tipo de sangre": "A+",
+                "Contactos de emergencia": [
+                    {"nombre": "David Solano Marín", "telefono": "5527727291"},
+                    {"nombre": "Ingrid Abigail Solano Avilés", "telefono": "5611785498"}
+                ]
+    },
+    {
+        "Marca temporal": "2025-06-25 17:08:22.849",
+        "Nombre (incluye si tienes un alias)*": "Aimée",
+        "¿Tienes alguna alergia?": "Medicamento: Penicilina, aspirina, tetraciclina. \nAlimentos: Pescado, marisco, manzana",
+        "En caso de accidente ¿Tienes seguro social? ": "NO",
+    "Fecha de Nacimiento": "24/06/1996",
+        "Tipo de sangre": "O+",
+                "Contactos de emergencia": [
+                    {"nombre": "Rosario Meza", "telefono": "2291721999"}
+                ]
+    },
+    {
+        "Marca temporal": "2025-06-25 17:26:41.306",
+        "Nombre (incluye si tienes un alias)*": "Víctor Báez ",
+        "¿Tienes alguna alergia?": "No ",
+        "En caso de accidente ¿Tienes seguro social? ": "Privado ",
+    "Fecha de Nacimiento": "13/03/1995",
+        "Tipo de sangre": "O+",
+                "Contactos de emergencia": [
+                    {"nombre": null, "telefono": "5517987439"},
+                    {"nombre": null, "telefono": "5534397232"}
+                ]
+    },
+    {
+        "Marca temporal": "2025-06-30 09:26:50.868",
+        "Nombre (incluye si tienes un alias)*": "Andrei (Barbón) ",
+        "¿Tienes alguna alergia?": "Ninguna",
+        "En caso de accidente ¿Tienes seguro social? ": "NO",
+    "Fecha de Nacimiento": "30/07/1994",
+        "Tipo de sangre": "O+",
+                "Contactos de emergencia": [
+                    {"nombre": "Jorge Eduardo López Alanís", "telefono": "5516969335"},
+                    {"nombre": "Mirna de León Villagrana", "telefono": "5518532994"},
+                    {"nombre": "Mirna de León Villagrana", "telefono": "5557113643"}
+                ]
+    },
+    {
+        "Marca temporal": "2025-06-30 12:13:39.722",
+        "Nombre (incluye si tienes un alias)*": "Alejandro Salvador Cruz Velásquez (Ale)",
+        "¿Tienes alguna alergia?": "No",
+        "En caso de accidente ¿Tienes seguro social? ": "NO",
+    "Fecha de Nacimiento": "09/01/1993",
+        "Tipo de sangre": "O+",
+                "Contactos de emergencia": [
+                    {"nombre": "Alejandro Cruz Pimentel (Padre)", "telefono": "9515690488"},
+                    {"nombre": "Elizabeth García Fuentes (Pareja)", "telefono": "5522557115"}
+                ]
+    },
+    {
+        "Marca temporal": "2025-06-25 15:03:33.640",
+        "Nombre (incluye si tienes un alias)*": "Javi ",
+        "¿Tienes alguna alergia?": "No",
+        "En caso de accidente ¿Tienes seguro social? ": "ISSTE",
+    "Fecha de Nacimiento": "23/11/1992",
+        "Tipo de sangre": "O+",
+                "Contactos de emergencia": [
+                    {"nombre": "Maribel Martínez", "telefono": "5518043037"}
+                ]
+    },
+    {
+        "Marca temporal": "2025-06-30 12:20:45.236",
+        "Nombre (incluye si tienes un alias)*": "Armando Delgadillo ",
+        "¿Tienes alguna alergia?": "No",
+        "En caso de accidente ¿Tienes seguro social? ": "NO",
+    "Fecha de Nacimiento": "27/08/1992",
+        "Tipo de sangre": "A+",
+                "Contactos de emergencia": [
+                    {"nombre": "Noemi Delgadillo", "telefono": "5548481817"}
+                ]
+    },
+    {
+        "Marca temporal": "2025-06-30 09:40:09.554",
+        "Nombre (incluye si tienes un alias)*": "Ricardo Cristóbal gabriel",
+        "¿Tienes alguna alergia?": "No",
+        "En caso de accidente ¿Tienes seguro social? ": "IMSS",
+    "Fecha de Nacimiento": "05/05/1992",
+        "Tipo de sangre": "ORH+",
+                "Contactos de emergencia": [
+                    {"nombre": "María del Carmen Contreras Santiago", "telefono": "5545122113"},
+                    {"nombre": "Yadira Cristóbal Gabriel", "telefono": "5635829081"}
+                ]
+    },
+    {
+        "Marca temporal": "2025-06-30 22:46:53.189",
+        "Nombre (incluye si tienes un alias)*": "Ferran Sala",
+        "¿Tienes alguna alergia?": "No",
+        "En caso de accidente ¿Tienes seguro social? ": "IMSS",
+    "Fecha de Nacimiento": "29/04/1989",
+        "Tipo de sangre": "O+",
+                "Contactos de emergencia": [
+                    {"nombre": "Daphne", "telefono": "5534265577"}
+                ]
+    },
+    {
+        "Marca temporal": "2025-06-30 09:29:48.149",
+        "Nombre (incluye si tienes un alias)*": "Mónica Reyes (moon)",
+        "¿Tienes alguna alergia?": "No",
+        "En caso de accidente ¿Tienes seguro social? ": "SHIF",
+    "Fecha de Nacimiento": "30/01/1988",
+        "Tipo de sangre": "O+",
+                "Contactos de emergencia": [
+                    {"nombre": "Cecilia Abundez González", "telefono": "5537212763"},
+                    {"nombre": "Luis Enrique Reyes", "telefono": "555534526458"}
+                ]
+    },
+    {
+        "Marca temporal": "2025-06-26 10:32:43.903",
+        "Nombre (incluye si tienes un alias)*": "Oswaldo Casasola",
+        "¿Tienes alguna alergia?": "No",
+        "En caso de accidente ¿Tienes seguro social? ": "IMSS, ",
+    "Fecha de Nacimiento": "16/10/1986",
+        "Tipo de sangre": "o+",
+                "Contactos de emergencia": [
+                    {"nombre": "jazmín casasola", "telefono": "526567333138"},
+                    {"nombre": "edgar casasola", "telefono": "5528637168"}
+                ]
+    },
+    {
+        "Marca temporal": "2025-06-30 16:29:46.113",
+        "Nombre (incluye si tienes un alias)*": "ADRIAN LOPEZ PARRA",
+        "¿Tienes alguna alergia?": "NINGUNA",
+        "En caso de accidente ¿Tienes seguro social? ": "IMSS",
+    "Fecha de Nacimiento": "30/05/1985",
+        "Tipo de sangre": "A+",
+                "Contactos de emergencia": [
+                    {"nombre": "LUIS LOPEZ", "telefono": "5527618071"}
+                ]
+    },
+    {
+        "Marca temporal": "2025-06-25 16:45:08.371",
+        "Nombre (incluye si tienes un alias)*": "Jorge Avila",
+        "¿Tienes alguna alergia?": "Al aguacate ",
+        "En caso de accidente ¿Tienes seguro social? ": "IMSS, GNP",
+    "Fecha de Nacimiento": "06/01/1982",
+        "Tipo de sangre": "B+",
+                "Contactos de emergencia": [
+                    {"nombre": "Diana Duran", "telefono": "5522617980"}
+                ]
+    },
+    {
+        "Marca temporal": "2025-06-26 18:54:58.151",
+        "Nombre (incluye si tienes un alias)*": "Eduardo Izaith Aguilar Arévalo ",
+        "¿Tienes alguna alergia?": "No",
+        "En caso de accidente ¿Tienes seguro social? ": "NO",
+    "Fecha de Nacimiento": "22/12/1981",
+        "Tipo de sangre": "O positivo ",
+                "Contactos de emergencia": [
+                    {"nombre": "Erika CruzArevalo", "telefono": "5628069680"}
+                ]
+    },
+    {
+        "Marca temporal": "2025-06-25 17:40:42.830",
+        "Nombre (incluye si tienes un alias)*": "Johanatan",
+        "¿Tienes alguna alergia?": "A todo tipo de aves ",
+        "En caso de accidente ¿Tienes seguro social? ": "IMSS",
+    "Fecha de Nacimiento": "16/08/1981",
+        "Tipo de sangre": "0+",
+                "Contactos de emergencia": [
+                    {"nombre": "Guillermo", "telefono": "5538378810"},
+                    {"nombre": "Rosalía", "telefono": "5533991684"}
+                ]
+    },
+    {
+        "Marca temporal": "2025-06-25 18:13:49.781",
+        "Nombre (incluye si tienes un alias)*": "Gerardo Israel carpinteiro rojo",
+        "¿Tienes alguna alergia?": "No",
+        "En caso de accidente ¿Tienes seguro social? ": "No",
+    "Fecha de Nacimiento": "22/02/1980",
+        "Tipo de sangre": "No",
+                "Contactos de emergencia": [
+                    {"nombre": "Martha Hernandez", "telefono": "5542435067"},
+                    {"nombre": "Maura Carpinteiro rojo", "telefono": "5513339288"}
+                ]
+    },
+    {
+        "Marca temporal": "2025-06-25 17:12:31.059",
+        "Nombre (incluye si tienes un alias)*": "Miguel Ángel Zamudio Ruvalcaba ",
+        "¿Tienes alguna alergia?": "No",
+        "En caso de accidente ¿Tienes seguro social? ": "ISSTE",
+    "Fecha de Nacimiento": "02/08/1977",
+        "Tipo de sangre": "O+",
+        "Escribe al menos dos contactos de emergencia (Nombre y Teléfono)": "5519304927 (mamá) 5591640705 (hermana)"
+    },
+    {
+        "Marca temporal": "2025-06-25 17:24:00.722",
+        "Nombre (incluye si tienes un alias)*": "Martha Hernandez garcia",
+    "¿Tienes alguna alergia?": "No",
+    "En caso de accidente ¿Tienes seguro social? ": "NO",
+    "Fecha de Nacimiento": "01/11/1974",
+        "Tipo de sangre": null,
+                "Contactos de emergencia": [
+                    {"nombre": "Gerardo Carpinteiro", "telefono": "5540102213"},
+                    {"nombre": "Ángel Dario Ramírez Hernandez", "telefono": "5535544206"}
+                ]
+    },
+    {
+        "Marca temporal": "2025-06-25 16:42:09.075",
+        "Nombre (incluye si tienes un alias)*": "Chicarcas sin casco [alejandro melendez peña]",
+        "¿Tienes alguna alergia?": "No",
+        "En caso de accidente ¿Tienes seguro social? ": "IMSS, ISSTE",
+    "Fecha de Nacimiento": "17/07/1973",
+        "Tipo de sangre": "O+",
+                "Contactos de emergencia": [
+                    {"nombre": "Nicte melendez", "telefono": "5617258763"},
+                    {"nombre": "luisa uribe", "telefono": "554065788"}
+                ]
+    },
+    {
+        "Marca temporal": "2025-06-25 17:07:59.977",
+        "Nombre (incluye si tienes un alias)*": "Don Pepe ",
+        "¿Tienes alguna alergia?": "No",
+        "En caso de accidente ¿Tienes seguro social? ": "IMSS",
+    "Fecha de Nacimiento": "19/03/1965",
+        "Tipo de sangre": "O+",
+                "Contactos de emergencia": [
+                    {"nombre": "Marisol", "telefono": "557641610"},
+                    {"nombre": "Jesus Corona", "telefono": "5528153690"}
+                ]
+    },
+    {
+        "Marca temporal": "2025-06-30 15:15:57.516",
+        "Nombre (incluye si tienes un alias)*": "Sergio Guadalupe hernandez montiel ",
+        "¿Tienes alguna alergia?": "Si trimetropina sulfametaxol",
+        "En caso de accidente ¿Tienes seguro social? ": "IMSS",
+    "Fecha de Nacimiento": "25/07/1960",
+        "Tipo de sangre": "O positivo ",
+                "Contactos de emergencia": [
+                    {"nombre": "Alma rosa guzmán miranda", "telefono": "5529403085"},
+                    {"nombre": "victor hernandez montiel", "telefono": "5531403864"}
+                ]
+    },
+    {
+        "Marca temporal": "2025-06-30 09:52:25.481",
+        "Nombre (incluye si tienes un alias)*": "Ximena ",
+        "¿Tienes alguna alergia?": "No",
+        "En caso de accidente ¿Tienes seguro social? ": "ISSTE",
+        "Fecha de Nacimiento": "15/10/0225",
+        "Tipo de sangre": "B-",
+                "Contactos de emergencia": [
+                    {"nombre": "Sergio sandoval", "telefono": "5527154292"},
+                    {"nombre": "Cecilia sandoval", "telefono": "5532033586"}
+                ]
+    }
+]
