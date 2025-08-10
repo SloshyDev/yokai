@@ -25,7 +25,7 @@ export default function YokaiCards() {
         {filtered.map(item => (
           <div className="bg-gradient-to-br from-gray-800 via-gray-900 to-gray-700 rounded-3xl shadow-2xl p-7 w-full max-w-sm hover:scale-105 transition-transform duration-200 border-4 border-blue-500" key={item["Nombre (incluye si tienes un alias)*"]}>
             <div className="mb-4">
-              <div className="text-2xl font-extrabold text-blue-200 drop-shadow-sm">{item["Nombre (incluye si tienes un alias)*"] || 'Sin nombre'}</div>
+              <div className="text-3xl  text-blue-200 drop-shadow-sm font-gang">{item["Nombre (incluye si tienes un alias)*"] || 'Sin nombre'}</div>
             </div>
             <div className="mb-2 flex items-center gap-2">
               <span className="inline-block w-6 h-6 text-blue-400">🩺</span>
@@ -55,7 +55,17 @@ export default function YokaiCards() {
                     <li className="flex items-center gap-2 text-sm text-gray-200 mb-2" key={idx}>
                       <span className="inline-block w-5 h-5 text-blue-400">📞</span>
                       <span className="font-bold text-blue-100">{contact.nombre ?? 'Sin nombre'}</span>
-                      <span className="ml-2 bg-gray-900 px-2 py-1 rounded text-gray-100">{contact.telefono ?? 'Sin teléfono'}</span>
+                      {contact.telefono ? (
+                        <a
+                          href={`tel:${contact.telefono}`}
+                          className="ml-2 bg-gray-900 px-2 py-1 rounded text-gray-100 hover:underline"
+                          title={`Llamar a ${contact.telefono}`}
+                        >
+                          {contact.telefono}
+                        </a>
+                      ) : (
+                        <span className="ml-2 bg-gray-900 px-2 py-1 rounded text-gray-100">Sin teléfono</span>
+                      )}
                     </li>
                   ))
                 ) : (

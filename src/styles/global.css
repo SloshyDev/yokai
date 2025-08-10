@@ -1,1 +1,12 @@
 @import "tailwindcss";
+
+@font-face {
+	font-family: 'Gang';
+	src: url('/GANG.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+.font-gang {
+	font-family: 'Gang', sans-serif;
+}
